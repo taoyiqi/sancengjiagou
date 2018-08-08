@@ -5,7 +5,7 @@ using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Company.IDAL;     //这是测试git用的
+using Company.IDAL;     //这是测试git用的 tt
 using System.Linq.Expressions;
 
 namespace Company.DAL
